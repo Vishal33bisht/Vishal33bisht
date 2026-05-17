@@ -1,72 +1,100 @@
-# Hi there 👋, I'm Vishal Bisht  
+<h1 align="center">Hi, I'm Vishal Bisht 👋</h1>
+<h3 align="center">Full Stack Developer · B.Tech CS @ Graphic Era Hill University (2022–2026)</h3>
 
-💻 **Aspiring Full Stack Developer | DSA Enthusiast | Open Source Learner**  
-
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-bisht-5905a0251)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Vishal33bisht)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bishtv773@gmail.com)  
-
----
-
-## 🛠️ Technical Skills  
-
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-### ⚙️ Backend & Database  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white)  
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
+<p align="center">
+  <a href="https://portfolio-gamma-mauve-4u2p6261h5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-bisht-5905a0251">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@vishalbisht">
+    <img src="https://img.shields.io/badge/Blog-50%2B%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="mailto:bishtv773@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bishtv773%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 About Me
 
-### 📌 College Management Learning Portal  
-- Full-stack web app for academics, administration & reporting.  
-- **Frontend**: React.js (role-based dashboards for students, TAs, admins).  
-- **Backend**: FastAPI with authentication, attendance, assignments, course management.  
-- **Database**: MySQL for fast & efficient storage/retrieval.  
-
-### 📌 Calorie-Coach  
-- Responsive web app for calorie tracking.  
-- Built with **React.js, HTML, CSS, TailwindCSS**.  
-- Features: Food database with portion-based logging, progress dashboards, and a **Smart Meal Recommender**.  
-- Integrated with REST API for user & log storage.  
+- 🎓 Final-year CS student, graduating 2026
+- 🛠️ Building end-to-end web apps with **React, Node.js, Express, Python & PostgreSQL**
+- 🤖 Integrating **AI APIs** (OpenAI, Gemini) into real-world products
+- ☁️ **Oracle Cloud Infrastructure (OCI) DevOps Professional Certified** — [view badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=96D2F3B9B26990193335E4D7B4CDB9927A147F86832B72141028EEE45F7A7353)
+- ✍️ Active writer on **Hashnode** — 50+ articles on full-stack dev, systems & building in public
+- 📫 Open to **internships, full-time roles & collaborations**
 
 ---
 
-## 🎓 Achievements  
-- 🏅 **Full Stack Web Development – Udemy (2025)**  
-  [Certificate Link](https://www.ude.my/UC-160e8991-a4a8-4430-b197-d285c559ff38)  
+## 🔥 Featured Projects
 
-- 🏅 **Advanced Data Structures and Algorithms in Python – Udemy (2025)**  
-  [Certificate Link](https://www.ude.my/UC-8f2195a1-c1ad-4675-8467-883c97b8087d)  
+| Project | Stack | Live |
+|---|---|---|
+| 🗺️ [AI Trip Planner](https://github.com/Vishal33bisht/Ai_trip-planner) | React · FastAPI · Gemini AI · PostgreSQL | [Live](https://ai-trip-planner-seven-inky.vercel.app/) |
+| 📊 [Live Poll Dashboard](https://github.com/Vishal33bisht/live-pool-dashboard) | React · Node.js · Socket.IO · PostgreSQL · Prisma | Live |
+| 🚗 [Road Rescue Platform](https://github.com/Vishal33bisht/Road_resque) | React · Express · MongoDB · JWT · Maps API | [Live](https://road-resque.vercel.app/driver-dashboard) |
+| 💼 [Job Matcher](https://github.com/Vishal33bisht/job-matcher) | React · Node.js · MongoDB · Express | GitHub |
+| 🧠 [AI Stress Predictor](https://github.com/Vishal33bisht/AI-stress_predictor) | Python · FastAPI · ML · React | GitHub |
+| 📍 [Live Location Tracker](https://github.com/Vishal33bisht/live-location-tracker) | Node.js · Socket.io · Maps API | GitHub |
+| 1M ☑️ [1 Million Checkbox](https://github.com/Vishal33bisht/1-million-checkbox) | JavaScript · Canvas · DOM Virtualization | GitHub |
 
 ---
 
-## 📊 GitHub Stats  
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal33bisht&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal33bisht&layout=compact&theme=radical)  
+## 🛠️ Tech Stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Tools & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-⭐️ From [Vishal33bisht](https://github.com/Vishal33bisht)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal33bisht&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal33bisht&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📝 Work Experience
+
+**Web Development Intern — Innobyte Services** *(Nov 2025 – Dec 2025)*
+- Built an SPA with React + Vite, improving navigation speed over traditional HTML pages
+- Developed reusable components and improved mobile responsiveness with Tailwind CSS
+
+---
+
+<p align="center">
+  <i>Open to Software Engineer roles — internships, full-time, or freelance. Let's build something.</i>
+</p>
