@@ -37,7 +37,7 @@
 | 📊 [Live Poll Dashboard](https://github.com/Vishal33bisht/live-pool-dashboard) | React · Node.js · Socket.IO · PostgreSQL · Prisma | [Live](https://online-pool.vercel.app/) |
 | 🚗 [Road Rescue Platform](https://github.com/Vishal33bisht/Road_resque) | React · Express · MongoDB · JWT · Maps API | [Live](https://road-resque.vercel.app/driver-dashboard) |
 | 💼 [Job Matcher](https://github.com/Vishal33bisht/job-matcher) | React · Node.js · MongoDB · Express | [Live](https://job-matcher-mocha.vercel.app/) |
-| 🧠 [AI Stress Predictor](https://github.com/Vishal33bisht/AI-stress_predictor) | Python · FastAPI · ML · React | [Live](https://github.com/Vishal33bisht/AI-stress_predictor.git)|
+| 🧠 [AI Stress Predictor](https://github.com/Vishal33bisht/AI-stress_predictor) | Python · FastAPI · ML · React | [Live](https://vishal33bisht-ai-stress-predictor-app-qdmxzg.streamlit.app/)|
 | 📍 [Live Location Tracker](https://github.com/Vishal33bisht/live-location-tracker) | Node.js · Socket.io · Maps API | GitHub |
 | 1M ☑️ [1 Million Checkbox](https://github.com/Vishal33bisht/1-million-checkbox) | JavaScript · Canvas · DOM Virtualization | GitHub |
 
